@@ -5,6 +5,12 @@ young aemeath pet for codex
 
 Snowcap is a custom Codex pet: a compact chibi pink-haired companion holding a black cat, with a tiny white snow-leopard-like cub perched on top.
 
+### 中文简介
+
+这是为《鸣潮》玩家制作的可爱小爱弥斯 Codex 宠物。Snowcap 是一位抱着黑猫、头顶白色小雪豹幼崽的粉发 Q 版伙伴；她会随着 Codex 的状态做出待机、奔跑、挥手、跳跃、失败、等待与审核等动作。
+
+当前版本为 v2：新增 16 个环绕视线方向；当 Codex 正在运行任务时，她会轻轻左右摆动、带着音符唱歌，让工作过程更有陪伴感。
+
 ### Files
 
 - `pets/snowcap/pet.json` - Codex pet manifest.
