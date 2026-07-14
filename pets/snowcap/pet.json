@@ -1,6 +1,7 @@
 {
   "id": "snowcap",
   "displayName": "Snowcap",
-  "description": "A compact chibi digital pet with pink twin-tail hair, holding a black cat and balancing a tiny white snow-leopard-like cub on its head.",
+  "description": "A cute chibi pink-haired companion holding a black cat, with a tiny white snow-leopard cub perched on her head; she sings softly while working and looks around with expressive gaze directions.",
+  "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
